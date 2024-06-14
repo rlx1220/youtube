@@ -1,0 +1,50 @@
+header h1{
+    text-align:center;
+    font-family:Times New Roman;
+    font-size:45px;
+}
+
+.yt{
+    color:red;
+    font-family:Times New Roman;
+    font-size:50px;
+    text-shadow:1px 1px 1px black;
+    background-color:rgb(117, 0, 0);
+}
+
+.img{
+    text-align:center;
+}
+
+main p{
+    color:rgb(141, 80, 0);
+    font-family:Trebuchet MS;
+    text-align:center;
+}
+
+.vd{
+    color:rgb(151, 0, 0);
+    font-size:25px;
+    background-color: rgba(255, 106, 0, 0.781);
+    font-family:Tahoma ;
+    text-shadow:1px 1px 1px brown;
+}
+
+.vp{
+    background-color:white;
+    text-shadow:1px 1px 1px grey;
+}
+
+footer p{
+    text-align:right;
+    color:rgb(255, 255, 255);
+    font-size:18px;
+    background-color: black;
+    font-family:Georgia  ;
+}
+
+.www{
+    color:black;
+    background-color: white;
+    font-family:Georgia;
+}
